@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **AzureDatafactory, Databricks**
 
-- 🤝 I’m looking for help with **Azure DataEngineering**
+- 🤝 I’m looking for help for **Azure DataEngineering**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
